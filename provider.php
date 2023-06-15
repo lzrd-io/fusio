@@ -40,6 +40,7 @@ return [
         \Fusio\Adapter\Sql\Action\SqlSelectAll::class,
         \Fusio\Adapter\Sql\Action\SqlSelectRow::class,
         \Fusio\Adapter\Sql\Action\SqlInsert::class,
+        \Fusio\Adapter\Sql\Action\SqlInsertUpdate::class,
         \Fusio\Adapter\Sql\Action\SqlUpdate::class,
         \Fusio\Adapter\Sql\Action\SqlDelete::class,
         \Fusio\Adapter\Sql\Action\Query\SqlQueryAll::class,
@@ -80,4 +81,3 @@ return [
         \Fusio\Impl\Provider\Generator\Insomnia::class,
     ],
 ];
-

@@ -10,6 +10,21 @@
       "homepage": "https://chrisk.app"
     }
   ],
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/lzrd-io/fusio-impl"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/lzrd-io/fusio-adapter-sql"
+    },
+    {
+        "type": "vcs",
+        "url": "https://github.com/lzrd-io/psx-sandbox"
+    }
+    
+  ],
   "require": {
     "php": ">=8.0",
     "fusio/impl": "^6.3",
