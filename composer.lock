@@ -1631,12 +1631,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lzrd-io/fusio-impl.git",
-                "reference": "4fbb42c3e3631ab5823087d049b45061af14482e"
+                "reference": "96a192176cf8ebf064b74b460b72d4a9a0212480"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lzrd-io/fusio-impl/zipball/4fbb42c3e3631ab5823087d049b45061af14482e",
-                "reference": "4fbb42c3e3631ab5823087d049b45061af14482e",
+                "url": "https://api.github.com/repos/lzrd-io/fusio-impl/zipball/96a192176cf8ebf064b74b460b72d4a9a0212480",
+                "reference": "96a192176cf8ebf064b74b460b72d4a9a0212480",
                 "shasum": ""
             },
             "require": {
@@ -1715,7 +1715,7 @@
                     "url": "https://www.paypal.me/fusioapi"
                 }
             ],
-            "time": "2023-06-15T22:11:02+00:00"
+            "time": "2023-06-15T23:14:23+00:00"
         },
         {
             "name": "fusio/model",
